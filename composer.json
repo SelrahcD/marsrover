@@ -1,0 +1,17 @@
+{
+    "name": "charles/marsrover",
+    "require": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "Charles",
+            "email": "charles@evaneos.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MarsRover\\": "./src"
+        }
+    }
+}
